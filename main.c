@@ -7,13 +7,7 @@ int main() {
     printf("Enterpoint\n");
     printf("2 commit\n");
 
+    printf("4 commit\n");
 
-    printf("Last but not least! commit\n");
-
-    printf("122222!!\n");
-    //kkk
-
-    //rgrg
-    ///ug
     return 0;
 }
