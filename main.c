@@ -6,6 +6,8 @@ int main() {
     printf("3 commit\n");
     printf("Enterpoint\n");
     printf("2 commit\n");
+
     printf("4 commit\n");
+
     return 0;
 }
