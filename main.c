@@ -12,5 +12,8 @@ int main() {
 
     printf("122222!!\n");
     //kkk
+
+    //rgrg
+    ///ug
     return 0;
 }
