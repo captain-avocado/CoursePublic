@@ -1,0 +1,3 @@
+/Users/artemkaloev/CLionProjects/CoursePublic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/artemkaloev/CLionProjects/CoursePublic/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/artemkaloev/CLionProjects/CoursePublic/cmake-build-debug/CMakeFiles/CoursePublic.dir
